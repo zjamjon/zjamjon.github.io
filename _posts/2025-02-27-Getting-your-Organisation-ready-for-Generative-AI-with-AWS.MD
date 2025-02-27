@@ -1,5 +1,5 @@
 ---
-title: Preparing Your Organisation for Generative AI with AWS
+title: Getting Your Organisation Ready for Generative AI with AWS
 date: 2025-02-27 12:00:00 +0000
 categories: [Cloud, AWS, GenAI, Strategy]
 tags: [aws, genai]     # TAG names should always be lowercase
